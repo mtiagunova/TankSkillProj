@@ -74,6 +74,8 @@ The Tank is at 220, 30 now.
 
     public void printPosition() {
         System.out.println("The Tank " + MODEL + "-" + n + " is at " + x +", " + y + " now.");
+        /*for second commit*/
+        System.out.println("!");
     }
 
     public void turnLeft() {
